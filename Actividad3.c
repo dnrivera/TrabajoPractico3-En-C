@@ -149,7 +149,8 @@ void montoTotal(Empleado vec[Empleados])
         montototal = montototal + vec[i].Salario;
     }
 
-    printf("Se paga un total de $%d entre todos los empleados." , montototal);
+    printf("Se paga un total de $%d entre todos los empleados.\n" , montototal);
+    system("pause");
 }
 
 void imprimirEmpleados(Empleado vec[Empleados])
