@@ -1,2 +1,4 @@
 # TrabajoPractico3-En-C
-Tercer trabajo practico
+Repositorio de reserva para actividades del Trabajo Practico 3 de Algoritmo y Estructura de Datos
+
+
