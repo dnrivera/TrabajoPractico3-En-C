@@ -2,6 +2,20 @@
 #include <stdlib.h>
 
 /*
+1.
+i. Función que me devuelva el alumno de mayor promedio.
+ii. Función que me devuelva la cantidad de alumnos reprobados en el primer
+parcial(notas menores a 4).
+iii. Función que me imprima cuántas mujeres y cuántos varones hay.
+iv. Función que me ordene de mayor a menor el array teniendo en cuenta el
+número de legajo.
+v. Función que haga una Búsqueda Secuencial, pasando como parametro
+de busqueda el legajo del alumno
+vi. Funcione que muestre el legajo y el nombre de los tres alumnos de mayor
+promedio.
+
+2.
+Utilizando la estructura anterior y con las funciones completadas realizar lo siguiente:
 i. Función que me devuelva el alumno de mayor promedio.
 ii. Función que me devuelva la cantidad de alumnos reprobados en el primer
 parcial(notas menores a 4).
