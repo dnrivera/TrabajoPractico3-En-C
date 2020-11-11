@@ -155,7 +155,7 @@ void editarAlumnos(Alumno vec[Alumnos]) // Funcion para modificar los datos de a
     {
         if(Legajobuscado == vec[i].Legajo)
         {
-            Legajobuscado = 1;
+            Legajobuscado = -1;
             printf("Alumno %d\n" , i+1);
             printf("\n");
             printf("Ingrese la edad del alumno\n");
@@ -206,7 +206,7 @@ void editarAlumnos(Alumno vec[Alumnos]) // Funcion para modificar los datos de a
 
         }
     }
-    if(Legajobuscado != 1)
+    if(Legajobuscado != -1)
         printf("No se encontro el alumno.\n");
     system("pause");
 }
